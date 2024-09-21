@@ -26,5 +26,4 @@ By analyzing historical data, the model identifies key trends and characteristic
 
 # 6. Deployment
 * Deployed the model using Streamlit
-</br>
-  ![image](https://github.com/user-attachments/assets/525f8904-aae1-4ddc-91f0-be30f9cd88d6)
+![image](https://github.com/user-attachments/assets/525f8904-aae1-4ddc-91f0-be30f9cd88d6)
